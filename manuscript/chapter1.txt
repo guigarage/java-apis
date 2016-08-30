@@ -1,2 +1,4 @@
 # Chapter 1
 Hello, world!
+
+![alt text](images/sample.png "image name")
